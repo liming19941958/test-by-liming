@@ -32,7 +32,7 @@
                     <p>搜索</p>
             </mt-tab-item>
         </mt-tabbar>
-
+        <div>1233555333g3</div>
     </div>
 </template>
 
