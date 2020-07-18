@@ -10,7 +10,7 @@ import 'bootstrap/dist/css/bootstrap.css'
 Vue.config.productionTip = false
 Vue.use(MintUI);
 Vue.use(VueRouter);
-console.log('sd2rrrr22');
+console.log('sd2rrrrhhhhhhh22');
 new Vue({
   render: h => h(App),
     router
