@@ -62,7 +62,7 @@
     left: 0;
     right: 0;
     top:46px;
-    bottom:60px ;
+    bottom:50px ;
     background-color: rgba(255, 247, 249, 1);
 }
 .mint-header{
