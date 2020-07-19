@@ -16,6 +16,7 @@ npm run serve
 npm run build
 ```
 1、没问题
+2、有微博体！
 ### Lints and fixes files
 ```
 npm run lint
