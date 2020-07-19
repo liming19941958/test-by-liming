@@ -18,10 +18,8 @@
             </mt-tab-item>
 
             <mt-tab-item id="会员">
-
                     <p class="glyphicon glyphicon-tree-conifer" aria-hidden="true"></p>
                     <p>会员</p>
-
             </mt-tab-item>
             <mt-tab-item id="购物车">
                     <p class="glyphicon glyphicon-shopping-cart" aria-hidden="true"></p>
