@@ -62,7 +62,7 @@
     left: 0;
     right: 0;
     top:46px;
-    bottom:50px ;
+    bottom:60px ;
     background-color: rgba(255, 247, 249, 1);
 }
 .mint-header{
@@ -79,8 +79,6 @@
         a{
             color: rgba(124, 124, 124, 0.56);
             text-decoration: none;
-            margin-left: 28px;
-            margin-right: 17px;
         }
         a:hover{
             color: rgb(29, 198, 255) !important;
