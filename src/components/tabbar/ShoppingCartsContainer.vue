@@ -1,6 +1,7 @@
 <template>
     <div>
-        <img src="../../images/e.jpg" alt="">
+<!--        <img src="../../images/e.jpg" alt="">-->
+        <h1>88888888888888888</h1>
     </div>
 </template>
 
