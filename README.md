@@ -4,7 +4,7 @@
 ```
 npm install
 ```
-
+##这是小明修改了
 ### Compiles and hot-reloads for development
 ```
 npm run serve
